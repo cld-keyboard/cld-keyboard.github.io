@@ -1,0 +1,3 @@
+For this assignment I decided to make an on-screen keyboard. There's a key for each letter, number, and some symbols that can be used to type out a phrase. The caps lock button switches every letter to uppercase or lowercase and the number keys to their corresponding symbols. The shift key is mostly a placeholder, doing the same thing as the caps lock. It's not something I'd need to use often, but it was good practice. 
+
+Last updated: 4/2/2021
