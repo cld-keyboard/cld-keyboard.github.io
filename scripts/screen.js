@@ -70,7 +70,7 @@ function capsLock(){
 	//caps on till pressed again
 	if (caps === true){
 		caps = false;
-		document.getElementById("1").src = `assets/exc.png`;
+		document.getElementById("1").src = `assets/EXC.png`;
 		document.getElementById("2").src = `assets/@.png`;
 		document.getElementById("3").src = `assets/hash.png`;
 		document.getElementById("4").src = `assets/$.png`;
@@ -81,34 +81,34 @@ function capsLock(){
 		document.getElementById("9").src = `assets/(.png`;
 		document.getElementById("0").src = `assets/).png`;
 
-		document.getElementById("Q").src = `assets/Q2.png`;
-		document.getElementById("W").src = `assets/W2.png`;
-		document.getElementById("E").src = `assets/E2.png`;
-		document.getElementById("R").src = `assets/R2.png`;
-		document.getElementById("T").src = `assets/T2.png`;
-		document.getElementById("Y").src = `assets/Y2.png`;
-		document.getElementById("U").src = `assets/U2.png`;
-		document.getElementById("I").src = `assets/I2.png`;
-		document.getElementById("O").src = `assets/O2.png`;
-		document.getElementById("P").src = `assets/P2.png`;
+		document.getElementById("Q").src = `assets/q2.png`;
+		document.getElementById("W").src = `assets/w2.png`;
+		document.getElementById("E").src = `assets/e2.png`;
+		document.getElementById("R").src = `assets/r2.png`;
+		document.getElementById("T").src = `assets/t2.png`;
+		document.getElementById("Y").src = `assets/y2.png`;
+		document.getElementById("U").src = `assets/u2.png`;
+		document.getElementById("I").src = `assets/i2.png`;
+		document.getElementById("O").src = `assets/o2.png`;
+		document.getElementById("P").src = `assets/p2.png`;
 
-		document.getElementById("A").src = `assets/A2.png`;
-		document.getElementById("S").src = `assets/S2.png`;
-		document.getElementById("D").src = `assets/D2.png`;
-		document.getElementById("F").src = `assets/F2.png`;
-		document.getElementById("G").src = `assets/G2.png`;
-		document.getElementById("H").src = `assets/H2.png`;
-		document.getElementById("J").src = `assets/J2.png`;
-		document.getElementById("K").src = `assets/K2.png`;
-		document.getElementById("L").src = `assets/L2.png`;
+		document.getElementById("A").src = `assets/a2.png`;
+		document.getElementById("S").src = `assets/s2.png`;
+		document.getElementById("D").src = `assets/d2.png`;
+		document.getElementById("F").src = `assets/f2.png`;
+		document.getElementById("G").src = `assets/g2.png`;
+		document.getElementById("H").src = `assets/h2.png`;
+		document.getElementById("J").src = `assets/j2.png`;
+		document.getElementById("K").src = `assets/k2.png`;
+		document.getElementById("L").src = `assets/l2.png`;
 
-		document.getElementById("Z").src = `assets/Z2.png`;
-		document.getElementById("X").src = `assets/X2.png`;
-		document.getElementById("C").src = `assets/C2.png`;
-		document.getElementById("V").src = `assets/V2.png`;
-		document.getElementById("B").src = `assets/B2.png`;
-		document.getElementById("N").src = `assets/N2.png`;
-		document.getElementById("M").src = `assets/M2.png`;
+		document.getElementById("Z").src = `assets/z2.png`;
+		document.getElementById("X").src = `assets/x2.png`;
+		document.getElementById("C").src = `assets/c2.png`;
+		document.getElementById("V").src = `assets/v2.png`;
+		document.getElementById("B").src = `assets/b2.png`;
+		document.getElementById("N").src = `assets/n2.png`;
+		document.getElementById("M").src = `assets/m2.png`;
 		console.log('caps off');
 	}
 	else {
