@@ -74,7 +74,7 @@ function capsLock(){
 		document.getElementById("2").src = `assets/@.png`;
 		document.getElementById("3").src = `assets/hash.png`;
 		document.getElementById("4").src = `assets/$.png`;
-		document.getElementById("5").src = `assets/%.png`;
+		document.getElementById("5").src = `assets/perc.png`;
 		document.getElementById("6").src = `assets/^.png`;
 		document.getElementById("7").src = `assets/&.png`;
 		document.getElementById("8").src = `assets/ast.png`;
